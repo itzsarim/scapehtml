@@ -1,0 +1,24 @@
+{
+  "name": "scapehtml",
+  "version": "0.1.0",
+  "description": "a library that provides methods to escape and unescape some html entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itzsarim/scapehtml.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "sarim zaidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itzsarim/scapehtml/issues"
+  },
+  "homepage": "https://github.com/itzsarim/scapehtml"
+}
