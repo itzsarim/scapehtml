@@ -3,6 +3,13 @@ scapehtml
 
 basic node module that escapes and unescapes HTML entities
 
+html entities supported
+'&'
+'"'
+'\'     
+'>'
+
+
 ## Installation
 
   npm install scapehtml --save
