@@ -9,7 +9,7 @@ basic node module that escapes and unescapes HTML entities
 
 ## Usage
 
-  var scapegoat = require('scapehtml')
+  var scapehtml = require('scapehtml')
       escape = scapehtml.escape,
       unescape = scapehtml.unescape;
 
