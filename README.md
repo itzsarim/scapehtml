@@ -13,7 +13,7 @@ basic node module that escapes and unescapes HTML entities
       escape = scapehtml.escape,
       unescape = scapehtml.unescape;
 
-  var html = '<h1>Hello World</h1>',
+  var html = 'Hello World',
       escaped = escape(html),
       unescaped = unescape(escaped);
 
